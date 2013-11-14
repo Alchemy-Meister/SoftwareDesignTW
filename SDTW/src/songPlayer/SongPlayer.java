@@ -2,6 +2,7 @@ package songPlayer;
 
 public class SongPlayer {
 	public static boolean playSong(){
+		return false;
 	}
 	public static void pauseSong(){
 	}
